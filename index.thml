@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About me</title>
+    <link rel="stylesheet" href="style.css">
+    <style ></style>
+</head>
+<body>
+    <div id="pagecontainer">
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="helloworld.html">Hello World!</a></li>
+                    <li><a href="aboutme.html">About me</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <h1>About Me!</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, sit nulla laudantium harum voluptatum labore libero odio? Maxime quibusdam soluta blanditiis porro neque facilis natus ab. Nesciunt non vitae voluptate.</p>
+            <img src="cat.jpg" width="150px">
+        </main>
+        <footer>
+            <table>
+                <tr>
+                    <th>number</th>
+                    <th>letter</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>a</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>b</td>
+                </tr>
+            </table>
+        </footer>
+    </div>
+</body>
+</html>
